@@ -40,17 +40,16 @@
                     ]
                 },
                 {
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "bayas",
+                    "lat": "﻿43.590111111111",
+                    "lon": "-6.0328333333333",
+                    "type": "beach",
+                    "name": "Playón de Bayas",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://uo288347.github.io/sew_hackaton/sample/images/bayas.jpg",
                     ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
+                    "description": "It is the largest beach in Asturias",
+                    "more": "It is not very wellknown so it is a pleasant place to enjoy a beach day",
                     "urls": [
                         "https://nl.wikipedia.org/MyPoi",
                         "https://example.org/mypoi"
