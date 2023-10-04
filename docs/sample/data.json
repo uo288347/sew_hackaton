@@ -1,9 +1,9 @@
 {
     "meta": {
-        "app_id": "org.example.same.identifier.manifest.package",
-        "app_title": "City Street Heritage",
+        "app_id": "es.teresa.",
+        "app_title": "Asturias Heritage",
         "version": 1,
-        "updated": "2022-09-26",
+        "updated": "2022-10-04",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
         "marketplace_url": ""
@@ -16,20 +16,22 @@
                     "complementary": "#FAFAFA"
                 },
                 "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
-                "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
-                "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
+                "text_info": "The aim of this app is to provide some information about some of the greatest places in Asturias, a little region in Spain",
+                "text_acknowledge": "This quick app was created at the University of Oviedo",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
                 "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/#get-involved",
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "covadonga",
+                    "lat": "﻿43.31210679", 
+                    "lon": "-5.05887946",
+                    "type": "lake",
+                    "name": "Lagos de Covadonga",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
+                        "https://www.lavozdeasturias.es/default/2021/02/16/00121613477565761681901/Foto/lagos.jpg",
+                        "https://c8.alamy.com/zooms/9/814d00eda69a450086c4ddca0abf01c2/2b1fxc0.jpg"
+                        "https://uo288347.github.io/sew_hackaton/sample/images/uniqueID_1.jpg",
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
                     ],
                     "description": "One-paragraph description",
